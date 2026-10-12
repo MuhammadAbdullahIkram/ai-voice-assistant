@@ -1,0 +1,165 @@
+{
+  "greeting": [
+    "hello",
+    "hi",
+    "hey assistant",
+    "good morning",
+    "good evening",
+    "hey there",
+    "salam",
+    "assalam o alaikum",
+    "hi assistant"
+  ],
+  "how_are_you": [
+    "how are you",
+    "how are you doing",
+    "how is it going",
+    "are you okay",
+    "how do you do",
+    "how are you today"
+  ],
+  "about": [
+    "who are you",
+    "what is your name",
+    "tell me about yourself",
+    "what can you do",
+    "help",
+    "what are your features",
+    "show commands",
+    "help me",
+    "what are you"
+  ],
+  "thanks": [
+    "thank you",
+    "thanks a lot",
+    "thanks",
+    "thank you so much",
+    "that was helpful",
+    "great thanks",
+    "thanks for the help",
+    "thank you for your help",
+    "thanks assistant",
+    "much appreciated",
+    "thank you assistant",
+    "thanks buddy"
+  ],
+  "time": [
+    "what time is it",
+    "tell me the time",
+    "current time",
+    "what's the time now",
+    "time please",
+    "do you know the time",
+    "what is the time"
+  ],
+  "date": [
+    "what is today's date",
+    "what day is it today",
+    "tell me the date",
+    "today's date",
+    "which day is today",
+    "what's the date",
+    "what is the date today"
+  ],
+  "search_web": [
+    "search python tutorials on google",
+    "google machine learning courses",
+    "look up best laptops",
+    "search for cheap flights",
+    "find pizza recipes online",
+    "search the web for news",
+    "google weather in lahore",
+    "search for data science jobs",
+    "search data analyst salary"
+  ],
+  "wikipedia": [
+    "who is albert einstein",
+    "tell me about python programming",
+    "what is machine learning",
+    "wikipedia artificial intelligence",
+    "explain neural networks",
+    "who was quaid e azam",
+    "what is photosynthesis",
+    "tell me about pakistan",
+    "what is deep learning",
+    "who is elon musk"
+  ],
+  "open": [
+    "open youtube",
+    "open google",
+    "open github",
+    "go to facebook",
+    "open linkedin",
+    "open kaggle",
+    "take me to wikipedia",
+    "open notepad",
+    "open calculator",
+    "launch paint",
+    "start notepad",
+    "open command prompt",
+    "open file explorer",
+    "launch calculator",
+    "open gmail"
+  ],
+  "play": [
+    "play despacito on youtube",
+    "play some music",
+    "play imran khan songs",
+    "youtube search cooking videos",
+    "play lofi music",
+    "play naat on youtube",
+    "play arijit singh songs",
+    "play a song"
+  ],
+  "joke": [
+    "tell me a joke",
+    "make me laugh",
+    "say something funny",
+    "joke please",
+    "i want to hear a joke",
+    "do you know any jokes",
+    "tell a funny joke"
+  ],
+  "note": [
+    "take a note buy milk",
+    "write a note call ali",
+    "note down meeting at five",
+    "remember to submit assignment",
+    "save a note study for exam",
+    "make a note submit report",
+    "take a note"
+  ],
+  "read_notes": [
+    "read my notes",
+    "show my notes",
+    "what are my notes",
+    "read notes",
+    "list my notes",
+    "what did i note",
+    "show notes"
+  ],
+  "calculate": [
+    "calculate 5 plus 3",
+    "what is 12 times 4",
+    "10 divided by 2",
+    "what is 7 minus 2",
+    "calculate 15 into 3",
+    "compute 20 plus 30",
+    "how much is 9 times 9",
+    "what is 100 divided by 4",
+    "calculate 8 minus 3",
+    "25 plus 17"
+  ],
+  "exit": [
+    "exit",
+    "goodbye",
+    "bye",
+    "stop",
+    "quit",
+    "see you later",
+    "shut down assistant",
+    "good night",
+    "stop listening",
+    "bye bye"
+  ]
+}
